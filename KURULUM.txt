@@ -1,0 +1,29 @@
+GÖREV XP — KÜÇÜK ZAFERLER
+
+İçerik: iPhone ana ekranına eklenebilen, reklamsız ve ücretsiz kişisel görev oyunu.
+
+BİLGİSAYARDA DENEME
+- index.html dosyasına çift tıkla. İnternet bağlantısı gerekmiyor.
+
+IPHONE'DA UYGULAMA GİBİ KULLANMA
+1) GitHub'da yeni, herkese açık (Public) bir depo oluştur: gorev-xp
+2) Depoda Add file > Upload files ile bu klasördeki 6 dosyayı kök dizine yükle:
+   index.html, manifest.webmanifest, sw.js, icon-192.png,
+   icon-512.png, apple-touch-icon.png
+3) Settings > Pages > Build and deployment > Deploy from a branch,
+   main / (root) > Save seçenekleriyle GitHub Pages'i aç.
+4) GitHub'ın gösterdiği https://KULLANICI.github.io/gorev-xp/ adresini
+   iPhone'da Safari ile aç.
+5) Safari Paylaş > Ana Ekrana Ekle > Ekle'ye bas.
+
+KAYIT VE YEDEKLEME
+- Veriler sadece bu cihazdaki ilgili web sitesinin tarayıcı deposunda tutulur.
+- Veriler kendiliğinden iCloud/başka telefona aktarılmaz.
+- Ayarlar > Yedeği indir seçeneğiyle JSON yedeği al.
+- Ayarlar > Yedeği yükle ile yedeği geri yükleyebilirsin.
+- Tarayıcı site verilerini silmek kayıtlarını da silebilir.
+
+Puanlama: önemli 30 XP, normal 20 XP, kolay 10 XP.
+Yarım görev = puanın yarısı. Her 120 XP = yeni seviye.
+Sadece ilk 3 günlük odak turu +5 XP kazandırır.
+Yapılamayan günlerin bir cezası yoktur.
